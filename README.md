@@ -34,5 +34,22 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Frontend+Developer+in+Progress+🚀;Lifelong+Learner+💡;Coding+is+Art+🎨;Pixel+Perfect+CSS+✨" alt="Typing SVG" /> </p>
 
+## ✨ Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/MariaCMontO/product-list-cart-angular">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaCMontO&repo=product-list-cart-angular&theme=radical" />
+  </a>
+  <a href="https://github.com/MariaCMontO/buscador-de-bebidas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaCMontO&repo=buscador-de-bebidas&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MariaCMontO/cotizador-cryptomonedas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaCMontO&repo=cotizador-cryptomonedas&theme=radical" />
+  </a>
+</p>
+
 ## 🌐 Connect with me
 <p align="center"> <a href="https://www.linkedin.com/in/mar%C3%ADa-camila-montilla-orozco-72a4b01ab/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/MariaCMontO"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
